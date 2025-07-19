@@ -67,7 +67,11 @@ BERT-TermEvolution/
 │   └── analysis/
 └── notebooks/
     ├── CooccurenceAnalysis.py
-    └── SemanticDrift.py### Pipeline Components
+    └── SemanticDrift.py
+```
+
+
+### Pipeline Components
 
 #### 1. Core BERT Training
 
@@ -156,5 +160,3 @@ Due to ethical considerations, actual criminal communication datasets are not pr
 - Run Co-occurrence Analysis: Generate semantic networks
 - Run Drift Analysis: Track temporal evolution
 - Review Outputs: Examine generated visualizations and data files
-```
-
